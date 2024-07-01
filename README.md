@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Shivansh Saxena Profile</title>
-    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="profile">
@@ -19,8 +18,10 @@
             <li><a href="https://twitter.com/shivansh4665" target="_blank">X (formerly Twitter)</a></li>
         </ul>
         <p>I'm a first year student pursuing Bachelor's in Computer Science 🎓 from AKTU University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also do my own research on internet privacy & security👨🏻‍💻. I'm currently into Web Development. I’m looking to collaborate🤝 on any Open Source Project involving Python, MySQL, HTML5, CSS3.</p></div>
+
 <style>
-body {
+
+.body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     margin: 0;
