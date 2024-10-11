@@ -10,7 +10,7 @@
         <h1>👋 Hi, I’m @shivansh4565 (Shivansh Saxena)</h1>
         <p>👀 I’m interested in coding and web development, Project Management.</p>
         <p>🌱 I’m currently learning B.TECH CSE (AI)</p>
-        <p>💞️ I have knowledge of HTML, CSS, PYTHON, JAVA & JAVASCRIPT</p>
+        <p>💞️ I have knowledge of HTML, CSS, PYTHON,  REACT.JS , MONGO DB JAVASCRIPT</p>
         <p>📫 Connect with me on:</p>
         <ul>
             <li><a href="https://www.linkedin.com/in/shivansh-saxena-58215a29b" target="_blank">LinkedIn</a></li>
