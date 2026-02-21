@@ -1,4 +1,4 @@
-<h1> <img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" alt="cplusplus" width="122" height="122" /> Hiii!, My name is shivansh saxena </h1>
+<h1> <img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" alt="cplusplus" width="100" height="85" /> Hiii!, My name is shivansh saxena </h1>
 <p>
 
   I am a passionate and versatile software developer with a strong foundation in **Data Structures and Algorithms (DSA) using C++**, **Full Stack Web Development**, **Python**, and **Data Analytics**. Having completed my core DSA journey and MERN stack development, I am currently focused on building real-world projects, strengthening my problem-solving skills, and preparing myself for future technologies.
