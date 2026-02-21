@@ -1,12 +1,37 @@
-<h1>Hiii! <img src="https://media.tenor.com/XiQCW98TY3UAAAAi/thinking-emoji.gif" alt="cplusplus" width="42" height="42" /> My name is shivansh saxena </h1>
+<h1>Hiii! <img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" alt="cplusplus" width="42" height="42" /> My name is shivansh saxena </h1>
 <p>
 
-I am a passionate and versatile software developer with a strong foundation in Data Structures and Algorithms (DSA), Full Stack Web Development, and Artificial Intelligence (AI). My goal is to continuously solve complex problems, build scalable and efficient systems, and contribute to innovative solutions across a wide range of domains. Technical Expertise: Data Structures & Algorithms (DSA): Proficient in solving algorithmic problems and optimizing code for performance. I have experience in competitive programming, mastering various data structures (like arrays, linked lists, trees, graphs) and algorithms (sorting, searching, dynamic programming, etc.) to tackle complex coding challenges. Full Stack Web Development: Extensive experience with building dynamic, responsive, and fully functional web applications using the MERN stack. I specialize in MongoDB, Express.js, React.js, and Node.js, and am comfortable with integrating various APIs and databases to create seamless, interactive user experiences. Python Development: Skilled in Python for a variety of applications, including automation, data analysis, and scripting. I am also proficient in machine learning and artificial intelligence, utilizing libraries such as TensorFlow, Keras, Scikit-learn, and Pandas to develop intelligent systems. AI & Machine Learning: Passionate about designing and deploying AI models and machine learning algorithms to solve real-world problems. My experience includes working with neural networks, natural language processing (NLP), and predictive analytics to create data-driven solutions that improve decision-making processes. Technologies I Work With: Frontend: HTML, CSS, JavaScript, React.js, Redux Backend: Node.js, Express.js, Python, Django, Flask Databases: MongoDB, MySQL, PostgreSQL AI/ML: TensorFlow, Keras, Scikit-learn, Pandas, NumPy Version Control: Git, GitHub, GitLab I'm always eager to learn and grow as a developer, and I thrive on the opportunity to contribute to open-source projects and collaborate with other developers. Feel free to explore my repositories, where you'll find various projects ranging from web applications to machine learning models and algorithmic challenges. I am excited to connect, learn from others, and continue improving my skills!
+  I am a passionate and versatile software developer with a strong foundation in **Data Structures and Algorithms (DSA) using C++**, **Full Stack Web Development**, **Python**, and **Data Analytics**. Having completed my core DSA journey and MERN stack development, I am currently focused on building real-world projects, strengthening my problem-solving skills, and preparing myself for future technologies.
 
-*   🌍  I'm based in greater noida
-*   ✉️  You can contact me at [shivanshsaxena4665@gmail.com](mailto:shivanshsaxena4665@gmail.com)
-*   🧠  I'm learning DSA and MERN stack developemt
-*   🤝  I'm open to collaborating on interesting projects
+**Technical Expertise:**
+
+**Data Structures & Algorithms (DSA):**
+Strong command of C++ with deep understanding of arrays, linked lists, trees, graphs, recursion, greedy techniques, and dynamic programming. Experienced in writing optimized and efficient solutions for complex coding problems.
+
+**Full Stack Web Development:**
+Hands-on experience building scalable and responsive applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). Comfortable with REST APIs, authentication systems, and modern frontend design while actively developing new full-stack projects.
+
+**Python & Data Analytics:**
+Proficient in Python for automation, scripting, and analytics workflows. Currently building data analytics projects using Pandas, NumPy, and Scikit-learn, focusing on extracting insights from real-world datasets and improving analytical thinking.
+
+**AI & Future Tech Learning:**
+Continuously exploring AI concepts, machine learning fundamentals, and modern development practices to stay aligned with future industry trends.
+
+**Technologies I Work With:**
+Frontend: HTML, CSS, JavaScript, React.js, Redux , Next.js , Vue.js
+Backend: Node.js, Express.js, Python, Flask
+Databases: MongoDB, MySQL, 
+Data & AI: Pandas, NumPy, Scikit-learn, TensorFlow (Basics) ,  Matplotlib
+Version Control: Git, GitHub, GitLab
+
+I am actively building projects in full stack development and data analytics while continuously improving my skills to grow as a future-ready developer. I enjoy solving challenging problems, collaborating on innovative ideas, and learning new technologies every day.
+
+
+* 🌍 I'm based in Greater Noida
+* ✉️ You can contact me at [shivanshsaxena4665@gmail.com](mailto:shivanshsaxena4665@gmail.com)
+* 🧠 DSA completed in C++ | Building Full Stack & Data Analytics projects | Continuously improving skills in Python and future technologies
+* 🤝 Open to collaborating on Full Stack, Data Analytics, and innovative tech projects
+
 *   ⚡  CODER<a href="https://www.github.com/shivansh4565" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/shivansh4565?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a></p>
 <h2>🚀 Languages and Tools I Use</h2>
