@@ -1,4 +1,4 @@
-<h1>Hiii! <img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" alt="cplusplus" width="42" height="42" /> My name is shivansh saxena </h1>
+<h1>Hiii! <img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" alt="cplusplus" width="82" height="82" /> My name is shivansh saxena </h1>
 <p>
 
   I am a passionate and versatile software developer with a strong foundation in **Data Structures and Algorithms (DSA) using C++**, **Full Stack Web Development**, **Python**, and **Data Analytics**. Having completed my core DSA journey and MERN stack development, I am currently focused on building real-world projects, strengthening my problem-solving skills, and preparing myself for future technologies.
@@ -28,7 +28,7 @@ I am actively building projects in full stack development and data analytics whi
 
 
 * 🌍 I'm based in Greater Noida
-* ✉️ You can contact me at [shivanshsaxena4665@gmail.com](mailto:shivanshsaxena4665@gmail.com)
+* ✉️ You can contact me at [Gmail ](mailto:shivanshsaxena4665@gmail.com)
 * 🧠 DSA completed in C++ | Building Full Stack & Data Analytics projects | Continuously improving skills in Python and future technologies
 * 🤝 Open to collaborating on Full Stack, Data Analytics, and innovative tech projects
 
