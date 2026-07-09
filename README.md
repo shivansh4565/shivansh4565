@@ -1,58 +1,391 @@
-<h1> <img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" alt="cplusplus" width="100" height="85" /> Hiii!, My name is shivansh saxena </h1>
-<p>
+<h1 align="center">
+  <img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" width="90"/>
+  <br/>
+  Hi 👋 I'm <b>Shivansh Saxena</b>
+</h1>
 
-  I am a passionate and versatile software developer with a strong foundation in **Data Structures and Algorithms (DSA) using C++**, **Full Stack Web Development**, **Python**, and **Data Analytics**. Having completed my core DSA journey and MERN stack development, I am currently focused on building real-world projects, strengthening my problem-solving skills, and preparing myself for future technologies.
+<h3 align="center">
+AI/ML Engineer • Generative AI • Agentic AI • Full Stack Developer
+</h3>
 
-**Technical Expertise:**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Generative+AI+Developer;Agentic+AI+Developer;Full+Stack+Developer;LangChain+%7C+LangGraph+%7C+LLMs+%7C+RAG" />
+</p>
 
-**Data Structures & Algorithms (DSA):**
-Strong command of C++ with deep understanding of arrays, linked lists, trees, graphs, recursion, greedy techniques, and dynamic programming. Experienced in writing optimized and efficient solutions for complex coding problems.
+<p align="center">
 
-**Full Stack Web Development:**
-Hands-on experience building scalable and responsive applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). Comfortable with REST APIs, authentication systems, and modern frontend design while actively developing new full-stack projects.
+<a href="mailto:shivanshsaxena4665@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-**Python & Data Analytics:**
-Proficient in Python for automation, scripting, and analytics workflows. Currently building data analytics projects using Pandas, NumPy, and Scikit-learn, focusing on extracting insights from real-world datasets and improving analytical thinking.
+<a href="https://github.com/shivansh4565">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**AI & Future Tech Learning:**
-Continuously exploring AI concepts, machine learning fundamentals, and modern development practices to stay aligned with future industry trends.
+<a href="https://www.linkedin.com/in/shivansh-saxena4565-">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-**Technologies I Work With:**
-Frontend: HTML, CSS, JavaScript, React.js, Redux , Next.js , Vue.js
-Backend: Node.js, Express.js, Python, Flask
-Databases: MongoDB, MySQL, 
-Data & AI: Pandas, NumPy, Scikit-learn, TensorFlow (Basics) ,  Matplotlib
-Version Control: Git, GitHub, GitLab
+</p>
 
-I am actively building projects in full stack development and data analytics while continuously improving my skills to grow as a future-ready developer. I enjoy solving challenging problems, collaborating on innovative ideas, and learning new technologies every day.
+---
+
+# 👨‍💻 About Me
+
+🎓 Final Year B.Tech Computer Science (Artificial Intelligence)
+
+🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Large Language Models, Agentic AI and Full Stack Development.
+
+💻 I enjoy building intelligent applications that combine AI with scalable web technologies.
+
+🧠 Solved **350+ LeetCode** problems using **C++**
+
+🌱 Currently learning Production AI Systems, Multi-Agent Workflows and Advanced LLM Engineering.
+
+📍 Greater Noida, India
+
+---
+
+# 🚀 Current Focus
+
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 🚀 Generative AI
+- 🤖 Agentic AI
+- 🧩 LangChain
+- 🔥 LangGraph
+- 💬 Large Language Models (LLMs)
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🌐 Full Stack Development
+- ☁️ AI Application Development
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AskAKTU
+
+AI-powered College Assistant using Conditional RAG.
+
+### Features
+
+- Academic Query Assistant
+- Fee Query Assistant
+- Conditional Routing
+- Semantic Search
+- Streamlit UI
+
+**Tech Stack**
+
+LangGraph • LangChain • FAISS • Hugging Face • Groq • Streamlit
+
+---
+
+## 🔬 DeepScope
+
+Multi-Agent AI Research Assistant.
+
+### Features
+
+- Search Agent
+- Reader Agent
+- Writer Agent
+- Critic Agent
+- Automated Report Generation
+
+**Tech Stack**
+
+LangGraph • LangChain • Tavily • Streamlit
+
+---
+
+## 🎤 Intervia
+
+AI Interview Intelligence Platform.
+
+### Features
+
+- Resume-based Questions
+- AI Evaluation
+- Analytics Dashboard
+- PDF Report Generation
+
+**Tech Stack**
+
+React • Node.js • MongoDB • Express • AI APIs
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,sql" />
+</p>
+
+---
+
+## 🌐 Full Stack Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,tailwind,html,css" />
+</p>
+
+### Technologies
+
+- React.js
+- Next.js
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+- REST APIs
+- Tailwind CSS
+- JWT Authentication
+
+---
+
+## 🤖 Artificial Intelligence
+
+### Machine Learning
+
+- Scikit-learn
+- Supervised Learning
+- Unsupervised Learning
+- Feature Engineering
+- Model Evaluation
+
+### Deep Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+- Artificial Neural Networks (ANN)
+- Convolutional Neural Networks (CNN)
+- Recurrent Neural Networks (RNN)
+- LSTM
+- GRU
+- TensorFlow
+- PyTorch
+- Keras
+
+---
+
+## 🚀 Generative AI
+
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- Embeddings
+- Semantic Search
+- Vector Databases
+- Context Engineering
+
+---
+
+## 🤖 Agentic AI
+
+- LangChain
+- LangGraph
+- AI Agents
+- Multi-Agent Systems
+- Tool Calling
+- Agent Workflows
+- AI Agent Orchestration
+
+---
+
+## 📚 AI & Data Libraries
+
+- Hugging Face Transformers
+- FAISS
+- Sentence Transformers
+- NumPy
+- Pandas
+- Matplotlib
+- OpenCV
+
+---
+
+## ⚙️ Development Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- Streamlit
+- Groq API
+- Google Gemini API
+
+---
+
+# 🧩 Core Computer Science
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- Software Engineering
+
+---
+
+# 🏆 Coding Profiles
+
+<p align="left">
+
+<a href="https://github.com/shivansh4565">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📈 Highlights
+
+- 🎓 Final Year B.Tech (Artificial Intelligence)
+- 🧠 350+ LeetCode Problems Solved
+- 🚀 12+ Real-World Projects
+- 🤖 AI/ML • GenAI • Agentic AI
+- 💻 Full Stack MERN Developer
+- 🌟 Open to AI/ML & Software Engineering Roles
+
+---# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivansh4565&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh4565&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=shivansh4565&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shivansh4565&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivansh4565&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:shivanshsaxena108@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/s4565/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shivansh4565">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Shivansh4665">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/shivansh_saxena_4565">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shivansh4565&label=Profile%20Views&color=8b5cf6&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💬 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 💡 Fun Fact
+
+```text
+while(!success){
+    Learn();
+    Build();
+    Debug();
+    Repeat();
+}
+```
+
+---
+
+<h3 align="center">
+
+⭐ If you like my work, consider starring my repositories!
+
+</h3>
+
+<h2 align="center">
+
+🚀 Building AI that solves real-world problems.
+
+</h2>
+
+<p align="center">
+
+Made with ❤️ by <b>Shivansh Saxena</b>
+
+</p>
 
 
-* 🌍 I'm based in Greater Noida
-* ✉️ You can contact me at [Gmail ](mailto:shivanshsaxena4665@gmail.com)
-* 🧠 DSA completed in C++ | Building Full Stack & Data Analytics projects | Continuously improving skills in Python and future technologies
-* 🤝 Open to collaborating on Full Stack, Data Analytics, and innovative tech projects
 
-*   ⚡  CODER<a href="https://www.github.com/shivansh4565" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/shivansh4565?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a></p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/https://x.com/Shivansh4665" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/shivansh-saxena4565-" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/shivansh_saxena_4565/profilecard/?igsh=NTNhMHQyZ25uOXln" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shivansh4565&show_icons=true&locale=en" alt="shivansh4565" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh4565&" alt="shivansh4565" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivansh4565&show_icons=true&locale=en&layout=compact" alt="shivansh4565" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivansh4565" alt="shivansh4565" /></a></p> -->
+
