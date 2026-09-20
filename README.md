@@ -1,261 +1,557 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:3B82F6&height=280&section=header&text=Shivansh%20Saxena&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20%7C%20Generative%20AI%20%7C%20Agentic%20AI%20%7C%20Full%20Stack&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:172554,70:4C1D95,100:7C3AED&height=300&section=header&text=SHIVANSH%20SAXENA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20FULL%20STACK%20DEVELOPER%20%E2%80%A2%20SOFTWARE%20ENGINEER&descAlignY=55&descSize=17&descColor=CBD5E1" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/782f77fc3806019219431dd518711d8756bebbfc/images/Right.gif" width="65"/>
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="130"/>
-<img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" width="90"/>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="90"/>
-<img src="https://raw.githubusercontent.com/trinib/trinib/782f77fc3806019219431dd518711d8756bebbfc/images/Left.gif" width="65"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=950&lines=Building+Intelligent+%26+Scalable+Software;AI%2FML+%7C+Generative+AI+%7C+Agentic+AI;Full+Stack+%7C+MERN+%7C+Next.js+%7C+REST+APIs;350%2B+LeetCode+Problems+%7C+C%2B%2B;Turning+Ideas+into+Production-Ready+Products" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer+%F0%9F%A4%96;Generative+AI+Developer+%E2%9C%A8;Agentic+AI+Developer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;LangChain+%7C+LangGraph+%7C+LLMs+%7C+RAG" />
+<a href="https://github.com/shivansh4565">
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<a href="https://www.linkedin.com/in/shivansh-saxena4565-">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<a href="mailto:shivanshsaxena4665@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/shivansh4565"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/shivansh-saxena4565-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/Shivansh4665"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://www.instagram.com/shivansh_saxena_4565"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:shivanshsaxena4665@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=shivansh4565&label=Profile%20Views&color=8b5cf6&style=for-the-badge"/>
+<a href="https://shivansh-ai-dev.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=shivansh4565&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+---
 
-## 👨‍💻 About Me
-
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
-
-- 🎓 Final Year B.Tech Computer Science (Artificial Intelligence)
-- 🤖 Passionate about **Generative AI**, **Agentic AI**, LLMs, Deep Learning & Machine Learning
-- 💻 I build intelligent applications that combine AI with scalable full-stack web technologies
-- 🧠 Solved **350+ LeetCode** problems using **C++**
-- 🌱 Currently mastering **Production AI Systems**, **Multi-Agent Workflows** & **Advanced LLM Engineering**
-- 📍 Greater Noida, India
-- 🌟 Open to **AI/ML** and **Software Engineering** roles
-
-<br clear="both"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
-
-## 🚀 Current Focus
+# 👨‍💻 About Me
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" height="55"/> &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.ico" height="45"/> &nbsp;&nbsp;
-<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="50" style="border-radius:50%"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,react,nextjs,nodejs,typescript,mongodb&theme=dark"/>
 
-| 🤖 Machine Learning | 🧠 Deep Learning | 🚀 Generative AI | 🤖 Agentic AI |
-|:---:|:---:|:---:|:---:|
-| 🧩 LangChain | 🔥 LangGraph | 💬 LLMs | 📚 RAG |
-| 🌐 Full Stack Dev | ☁️ AI App Dev | 🕸️ Multi-Agent Systems | 🛠️ Tool-Calling Agents |
+### AI/ML Engineer × Full Stack Developer × Software Engineer
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+I'm a final-year **B.Tech Computer Science student specializing in Artificial Intelligence**, focused on building intelligent systems and scalable full-stack applications.
 
-## 🌟 Featured Projects
+I work across the complete development lifecycle — from **Machine Learning and LLM applications** to **backend APIs, databases, authentication and modern frontend systems**.
 
-<table width="100%">
+### What I Bring
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%2FML-Engineering-7C3AED?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative-AI-6366F1?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agentic-AI-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full-Stack-2563EB?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Software-Engineering-111827?style=for-the-badge&logo=github&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/350%2B-LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-DSA-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+</div>
+
+---
+
+# 🧠 Tech Stack
+
+## Programming Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,html,css&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</div>
+
+---
+
+# AI / Machine Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ANN-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CNN-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RNN-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LSTM-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GRU-2563EB?style=for-the-badge"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Supervised_Learning-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Unsupervised_Learning-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Feature_Engineering-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model_Evaluation-4F46E5?style=for-the-badge"/>
+
+</div>
+
+---
+
+# Generative AI
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/Semantic_Search-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_Databases-4F46E5?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sentence_Transformers-FF6F00?style=for-the-badge"/>
+
+</div>
+
+---
+
+# Agentic AI
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tool_Calling-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agent_Workflows-4F46E5?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://cdn.simpleicons.org/langchain/7C3AED" width="42"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/robotframework/8B5CF6" width="42"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="42"/>
+
+</div>
+
+---
+
+# Full Stack Development
+
+### Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+</div>
+
+### Backend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-7C3AED?style=for-the-badge"/>
+
+</div>
+
+### Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</div>
+
+### Authentication & APIs
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST-API-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API_Integration-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database_Design-4F46E5?style=for-the-badge"/>
+
+</div>
+
+---
+
+# Software Engineering
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,git,github,docker,postman,vscode&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/DSA-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/OOP-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating_Systems-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Networks-2563EB?style=for-the-badge"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Software_Engineering-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem_Solving-4F46E5?style=for-the-badge"/>
+
+</div>
+
+---
+
+# Developer Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</div>
+
+---
+
+# Featured Projects
+
+<table>
 <tr>
-<td width="33%" valign="top" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="60"/>
 
-### 🤖 AskAKTU
-AI-powered College Assistant using **Conditional RAG**
+<td width="50%" valign="top">
 
-**Features**
-- Academic Query Assistant
-- Fee Query Assistant
+<div align="center">
+
+<img src="https://cdn.simpleicons.org/openai/7C3AED" width="45"/>
+
+## AskAKTU
+
+### AI College Assistant
+
+<img src="https://img.shields.io/badge/AI-RAG-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-Agentic-6366F1?style=for-the-badge"/>
+
+</div>
+
+AI-powered academic assistant using **Conditional RAG** for domain-specific college information.
+
+### Features
+
+- Academic Q&A
+- Fee Information
 - Conditional Routing
-- Semantic Search
-- Streamlit UI
+- Semantic Retrieval
+- LLM-powered Responses
 
-`LangGraph` `LangChain` `FAISS` `Hugging Face` `Groq` `Streamlit`
+### Stack
+
+`LangChain` `LangGraph` `FAISS`  
+`Hugging Face` `Groq` `Streamlit`
 
 </td>
-<td width="33%" valign="top" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216120986-e42c9061-e027-40d6-9c6d-4bf1596c0a89.png" width="60"/>
 
-### 🔬 DeepScope
-Multi-Agent **AI Research Assistant**
+<td width="50%" valign="top">
 
-**Features**
+<div align="center">
+
+<img src="https://cdn.simpleicons.org/googlegemini/7C3AED" width="45"/>
+
+## DeepScope
+
+### Multi-Agent Research Assistant
+
+<img src="https://img.shields.io/badge/Multi--Agent-AI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Research-Automation-6366F1?style=for-the-badge"/>
+
+</div>
+
+AI research system using specialized agents for search, reading, writing and criticism.
+
+### Features
+
 - Search Agent
 - Reader Agent
 - Writer Agent
 - Critic Agent
 - Automated Reports
 
+### Stack
+
 `LangGraph` `LangChain` `Tavily` `Streamlit`
 
 </td>
-<td width="33%" valign="top" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60"/>
 
-### 🎤 Intervia
-**AI Interview Intelligence Platform**
+</tr>
 
-**Features**
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="45"/>
+
+## Intervia
+
+### AI Interview Platform
+
+<img src="https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Interview-7C3AED?style=for-the-badge"/>
+
+</div>
+
+Full-stack AI interview platform combining modern web engineering with AI-powered evaluation.
+
+### Features
+
 - Resume-based Questions
 - AI Evaluation
 - Analytics Dashboard
-- PDF Report Generation
+- PDF Reports
+- Payment Integration
 
-`React` `Node.js` `MongoDB` `Express` `AI APIs`
+### Stack
+
+`React` `Node.js` `Express`  
+`MongoDB` `AI APIs` `Razorpay`
 
 </td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,python&theme=dark"/>
+
+## AI × Web × Software
+
+</div>
+
+I enjoy building products where:
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI-7C3AED?style=for-the-badge"/>
++
+<img src="https://img.shields.io/badge/Full_Stack-2563EB?style=for-the-badge"/>
++
+<img src="https://img.shields.io/badge/Software-111827?style=for-the-badge"/>
+=
+<img src="https://img.shields.io/badge/Real_Product-8B5CF6?style=for-the-badge"/>
+
+</div>
+
+</td>
+
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+---
 
-## 💻 Tech Stack
-
-### 👨‍💻 Programming Languages
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,sql&theme=dark" height="60"/>
-</p>
-
-### 🌐 Full Stack Development
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,tailwind,html,css&theme=dark" height="60"/>
-</p>
-
-`React.js` `Next.js` `Node.js` `Express.js` `MongoDB` `MySQL` `REST APIs` `Tailwind CSS` `JWT Auth`
-
-### 🚀 Generative AI
-<p align="center">
-<img src="https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-6366F1?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-3B82F6?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vector_DB-8B5CF6?style=for-the-badge&logo=pinecone&logoColor=white"/>
-<img src="https://img.shields.io/badge/Embeddings-6366F1?style=for-the-badge&logo=huggingface&logoColor=white"/>
-</p>
-
-- Large Language Models (LLMs) • Prompt Engineering
-- Retrieval-Augmented Generation (RAG) • Embeddings & Semantic Search
-- Vector Databases • Context Engineering
-
-### 🤖 Agentic AI
-<p align="center">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI_Agents-8B5CF6?style=for-the-badge&logo=robotframework&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tool_Calling-3B82F6?style=for-the-badge&logo=zapier&logoColor=white"/>
-</p>
-
-- LangChain • LangGraph • AI Agents & Multi-Agent Systems
-- Tool Calling & Agent Workflows • AI Agent Orchestration
-
-### 🧠 Deep Learning
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" height="60"/>
-</p>
-
-`ANN` `CNN` `RNN` `LSTM` `GRU` `TensorFlow` `PyTorch` `Keras`
-
-### 📈 Machine Learning
-`Scikit-learn` `Supervised Learning` `Unsupervised Learning` `Feature Engineering` `Model Evaluation`
-
-### 📚 AI & Data Libraries
-`Hugging Face Transformers` `FAISS` `Sentence Transformers` `NumPy` `Pandas` `Matplotlib` `OpenCV`
-
-### ⚙️ Development Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="60"/>
-</p>
-
-`Git` `GitHub` `VS Code` `Postman` `Streamlit` `Groq API` `Google Gemini API`
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
-
-## 🧩 Core Computer Science
+# Problem Solving
 
 <div align="center">
 
-`Data Structures & Algorithms` • `OOP` • `DBMS` • `Operating Systems` • `Computer Networks` • `Software Engineering`
+<img src="https://img.shields.io/badge/350%2B-LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-DSA-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Problem_Solving-Active-7C3AED?style=for-the-badge"/>
+
+<br/><br/>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+---
 
-## 🏆 Coding Profiles
-
-<p align="center">
-<a href="https://github.com/shivansh4565"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://codeforces.com/"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
-
-## 📈 Highlights
+# GitHub Analytics
 
 <div align="center">
 
-| 🎓 Education | 🧠 Practice | 🚀 Projects | 💻 Specialization |
-|:---:|:---:|:---:|:---:|
-| Final Year B.Tech (AI) | 350+ LeetCode | 12+ Real-World Projects | GenAI • Agentic AI • MERN |
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivansh4565&theme=tokyonight" 
+width="95%"
+/>
+
+<br/><br/>
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivansh4565&theme=tokyonight" 
+width="48%"
+/>
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivansh4565&theme=tokyonight&utcOffset=5.5" 
+width="48%"
+/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivansh4565&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh4565&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-</p>
-
-## 🔥 GitHub Streak
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=shivansh4565&theme=tokyonight&hide_border=true&background=00000000"/>
-</p>
-
-## 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shivansh4565&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=2&column=4"/>
-</p>
-
-## 📈 Contribution Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivansh4565&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
-
-## 💬 Random Dev Quote
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
-## 💡 Fun Fact
-```text
-while(!success){
-    Learn();
-    Build();
-    Debug();
-    Repeat();
-}
-```
+# Contribution Activity
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="100"/>
-
-### ⭐ If you like my work, consider starring my repositories!
-
-## 🚀 Building AI that solves real-world problems.
-
-Made with ❤️ by **Shivansh Saxena**
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivansh4565&theme=tokyonight" 
+width="95%"
+/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:6366F1,100:8B5CF6&height=140&section=footer"/>
+---
+
+# Current Mission
+
+<div align="center">
+
+<img 
+src="https://cdn.simpleicons.org/robotframework/7C3AED" 
+width="42"
+/>
+
+<h3>Building Production-Ready AI Applications</h3>
+
+<br/>
+
+<img 
+src="https://img.shields.io/badge/AI%2FML-ENGINEERING-7C3AED?style=for-the-badge&logo=python&logoColor=white"
+/>
+
+<img 
+src="https://img.shields.io/badge/GENERATIVE-AI-6366F1?style=for-the-badge&logo=googlegemini&logoColor=white"
+/>
+
+<img 
+src="https://img.shields.io/badge/AGENTIC-AI-8B5CF6?style=for-the-badge&logo=langchain&logoColor=white"
+/>
+
+<img 
+src="https://img.shields.io/badge/FULL-STACK-2563EB?style=for-the-badge&logo=react&logoColor=white"
+/>
+
+<img 
+src="https://img.shields.io/badge/SOFTWARE-ENGINEERING-111827?style=for-the-badge&logo=github&logoColor=white"
+/>
+
+<br/><br/>
+
+<img 
+src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,nextjs,nodejs,typescript,mongodb,cpp,docker&theme=dark"
+/>
+
+<br/><br/>
+
+<b>Learn → Build → Break → Debug → Ship → Repeat</b>
+
+</div>
+
+---
+
+# Let's Connect
+
+<div align="center">
+
+<a href="https://shivansh-ai-dev.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shivansh-saxena4565-">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shivanshsaxena4665@gmail.com">
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shivansh4565">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=github,linkedin,gmail,vercel&theme=dark"/>
+
+<br/><br/>
+
+<b>Explore my repositories. Build something. Let's ship it.</b>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/BUILT_WITH-COFFEE_%2B_CODE_%2B_AI-7C3AED?style=for-the-badge"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4C1D95,100:020617&height=150&section=footer" width="100%"/>
