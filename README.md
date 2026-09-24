@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/shivansh-saxena4565-">
+<a href="https://www.linkedin.com/in/s4565">
 <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -524,11 +524,11 @@ src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,nextjs,nodej
 
 <div align="center">
 
-<a href="https://shivansh-ai-dev.vercel.app/">
+<a href="https://shivansh-ai-dev.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/shivansh-saxena4565-">
+<a href="https://www.linkedin.com/in/s4565">
 <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
